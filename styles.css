@@ -7,9 +7,12 @@ a {
     color: #f78019;
 }
 
+img {
+    height: auto;
+    width: 400px;
+}
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
